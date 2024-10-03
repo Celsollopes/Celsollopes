@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Management and Data Scientist Teams**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Celsollopes](https://github.com/Celsollopes)
+- 👨‍💻 Some of my projects are available at [https://github.com/Celsollopes](https://github.com/Celsollopes)
 
 - 📝 I regularly write articles on [https://medium.com/@camlj ](https://medium.com/@camlj) ; [https://www.linkedin.com/in/celsollopes/](https://www.linkedin.com/in/celsollopes/)
 
