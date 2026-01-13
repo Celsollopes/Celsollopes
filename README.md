@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">👋, I'm Celso Lopes Jr</h1>
-<h3 align="center">A professional in Machine Learning, AI research, Computer Vision, and Data Science</h3>
+<h3 align="center">A professional in Machine Learning, AI Research, Computer Vision, MLOPs, LLMOps, and Data Science</h3>
 
 - 🔭 I’m currently working on **Data Science, AI and Digital Twins**
 
