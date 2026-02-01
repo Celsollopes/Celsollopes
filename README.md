@@ -1,4 +1,7 @@
 # 🤖 Celso Lopes Jr, PhD
+<p align="center">
+  <img src="https://github.com/Celsollopes/Celsollopes/blob/main/assets/wallpaper_for_github.png?raw=true" alt="Celso Lopes Jr - AI & MLOps Architecture" width="100%">
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/PhD-Computer%20Engineering-blue?style=flat-square">
@@ -6,17 +9,7 @@
   <img src="https://img.shields.io/badge/Location-Portugal%20%F0%9F%87%B5%F0%9F%87%B9-red?style=flat-square">
 </p>
 
-Professional researcher and leader specialized in **Machine Learning, Computer Vision, MLOps, and Data Science**. I bridge the gap between academic excellence and industrial scalability, with extensive experience leading high-performance technical teams.
-
----
-
-### 💼 Leadership & Management Experience
-
-I have a proven track record of coordinating multidisciplinary teams and aligning technical R&D with business goals:
-
-* **Head of Integration & Data Science Coordinator:** Leading strategic alignment between data products and core business infrastructure.
-* **Machine Learning Coordinator & Tech Lead:** Orchestrating R&D teams in AI/ML, ensuring best practices in model development and deployment.
-* **Strategic R&D:** Transforming complex academic research into production-ready industrial solutions.
+Researcher and professional leader specialising in **Machine Learning, Computer Vision, Data Science, and MLOps**. I bridge the gap between academic output and industrial scalability, with experience leading technical and multidisciplinary teams.
 
 ---
 
