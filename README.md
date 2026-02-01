@@ -1,6 +1,6 @@
 # 🤖 Celso Lopes Jr, PhD
 <p align="center">
-  <img src="https://github.com/Celsollopes/Celsollopes/blob/main/assets/wallpaper_for_github.png?raw=true" alt="Celso Lopes Jr - AI & MLOps Architecture" width="100%">
+  <img src="https://github.com/Celsollopes/Celsollopes/blob/main/wallpaper_for_github.png?raw=true" alt="Celso Lopes Jr - AI & MLOps Architecture" width="100%">
 </p>
 
 <p align="left">
