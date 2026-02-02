@@ -1,7 +1,4 @@
-# 🤖 Celso Lopes Jr, PhD
-<p align="center">
-  <img src="https://github.com/Celsollopes/Celsollopes/blob/main/wallpaper_for_github.png?raw=true" alt="Celso Lopes Jr - AI & MLOps Architecture" width="100%">
-</p>
+# 🤖 Celso Lopes Jr.
 
 <p align="left">
   <img src="https://img.shields.io/badge/PhD-Computer%20Engineering-blue?style=flat-square">
