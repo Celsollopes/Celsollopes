@@ -35,7 +35,7 @@ Researcher and professional leader specialising in **Machine Learning, Computer 
 
 ---
 <p align="center">
-  <i>"Leading teams to transform complex data into intelligent, scalable decisions."</i>
+  <i>""</i>
 </p>
 
 <h3 align="left">Set of technologies and tools</h3>
